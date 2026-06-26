@@ -56,6 +56,14 @@ Python과 Pandas를 활용하여 데이터 정제(Data Cleaning), 특성 생성(
 - United Kingdom의 매출 비중이 매우 높아 영국을 제외한 국가별 매출도 추가로 비교하였다.
 - 국가별 고객 수와 매출의 관계를 함께 분석하였다.
 
+- #### Country Sales (Excluding UK)
+<img width="700" height="650" alt="sales_exclude_UK" src="https://github.com/user-attachments/assets/91e2f3e2-afea-4a15-b48a-8e7730aff027" />
+
+#### Customer Count by Country (Excluding UK)
+<img width="700" height="650" alt="customer_count_excludeUK" src="https://github.com/user-attachments/assets/f36eaf6a-8498-4fb6-8091-3b3a83f1f665" />
+
+
+
 ### 3. Product Sales Analysis
 
 - 상품별 판매 수량을 집계하여 가장 많이 판매된 상품을 확인하였다.
