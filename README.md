@@ -1,15 +1,15 @@
 # E-Commerce Sales Analysis
 
-Exploratory Data Analysis (EDA) project using Python, Pandas, and Matplotlib to analyze Online Retail sales data.
+Exploratory Data Analysis (EDA) project on the Online Retail dataset using Python, Pandas, and Matplotlib.
 
 ---
 
 ## Project Information
 
+- **Analysis Type:** Exploratory Data Analysis (EDA)
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib
 - **Environment:** Jupyter Notebook
-- **Analysis Type:** Exploratory Data Analysis (EDA)
 - **Dataset:** Online Retail Dataset (UCI Machine Learning Repository)
 
 ---
