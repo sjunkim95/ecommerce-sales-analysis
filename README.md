@@ -57,10 +57,10 @@ Python과 Pandas를 활용하여 데이터 정제(Data Cleaning), 특성 생성(
 - 국가별 고객 수와 매출의 관계를 함께 분석하였다.
 
 - #### Country Sales (Excluding UK)
-<img width="700" height="650" alt="sales_exclude_UK" src="https://github.com/user-attachments/assets/91e2f3e2-afea-4a15-b48a-8e7730aff027" />
+<img width="700" height="300" alt="sales_exclude_UK" src="https://github.com/user-attachments/assets/91e2f3e2-afea-4a15-b48a-8e7730aff027" />
 
 #### Customer Count by Country (Excluding UK)
-<img width="700" height="650" alt="customer_count_excludeUK" src="https://github.com/user-attachments/assets/f36eaf6a-8498-4fb6-8091-3b3a83f1f665" />
+<img width="700" height="300" alt="customer_count_excludeUK" src="https://github.com/user-attachments/assets/f36eaf6a-8498-4fb6-8091-3b3a83f1f665" />
 
 
 
